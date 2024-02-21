@@ -1,0 +1,17 @@
+D:\Users\User\Desktop\jsaaaaaa\jsaaaaaa\bin\Debug\net6.0\jsaaaaaa.exe
+D:\Users\User\Desktop\jsaaaaaa\jsaaaaaa\bin\Debug\net6.0\jsaaaaaa.deps.json
+D:\Users\User\Desktop\jsaaaaaa\jsaaaaaa\bin\Debug\net6.0\jsaaaaaa.runtimeconfig.json
+D:\Users\User\Desktop\jsaaaaaa\jsaaaaaa\bin\Debug\net6.0\jsaaaaaa.dll
+D:\Users\User\Desktop\jsaaaaaa\jsaaaaaa\bin\Debug\net6.0\jsaaaaaa.pdb
+D:\Users\User\Desktop\jsaaaaaa\jsaaaaaa\obj\Debug\net6.0\jsaaaaaa.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\jsaaaaaa\jsaaaaaa\obj\Debug\net6.0\jsaaaaaa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\jsaaaaaa\jsaaaaaa\obj\Debug\net6.0\jsaaaaaa.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\jsaaaaaa\jsaaaaaa\obj\Debug\net6.0\jsaaaaaa.AssemblyInfo.cs
+D:\Users\User\Desktop\jsaaaaaa\jsaaaaaa\obj\Debug\net6.0\jsaaaaaa.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\jsaaaaaa\jsaaaaaa\obj\Debug\net6.0\jsaaaaaa.dll
+D:\Users\User\Desktop\jsaaaaaa\jsaaaaaa\obj\Debug\net6.0\refint\jsaaaaaa.dll
+D:\Users\User\Desktop\jsaaaaaa\jsaaaaaa\obj\Debug\net6.0\jsaaaaaa.pdb
+D:\Users\User\Desktop\jsaaaaaa\jsaaaaaa\obj\Debug\net6.0\jsaaaaaa.genruntimeconfig.cache
+D:\Users\User\Desktop\jsaaaaaa\jsaaaaaa\obj\Debug\net6.0\ref\jsaaaaaa.dll
+D:\Users\User\Desktop\jsaaaaaa\jsaaaaaa\bin\Debug\net6.0\HtmlTags.json
+D:\Users\User\Desktop\jsaaaaaa\jsaaaaaa\bin\Debug\net6.0\HtmlVoidTags.json
